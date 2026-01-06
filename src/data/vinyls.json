@@ -5,7 +5,7 @@
         "artist": "The Clash",
         "year": 1979,
         "genre": "Punk",
-        "cover": "covers/london_calling.jpg",
+        "cover": "/covers/london_calling.jpg",
         "tracklist": ["London Calling", "Brand New Cadillac", "Jimmy Jazz", "Hateful",
     "Rudie Can't Fail", "Spanish Bombs", "The Right Profile", "Lost In The Supermarket",
     "Clampdown", "The Guns Of Brixton", "Wrong 'Em Boyo", "Death Or Glory", "Koka Kola",
@@ -17,7 +17,7 @@
         "artist": "Javier Blake",
         "year": 2025,
         "genre": "Alternative",
-        "cover": "covers/cuenta_dios_tus_planes.jpg",
+        "cover": "/covers/cuenta_dios_tus_planes.jpg",
         "tracklist": ["Bomba Atómica", "Talismán", "Cosas De Grande", "Romeo", "Mudanza", "Tiempo al Tiempo", "Rio Grande", 
         "Piensame", "Diciembre 22", "Afterpari"]   
     },
@@ -27,7 +27,7 @@
         "artist": "Green Day",
         "year": 2000,
         "genre": "Alternative/Rock",
-        "cover": "covers/warning.jpg",
+        "cover": "/covers/warning.jpg",
         "tracklist": ["Warning", "Blood, Sex and Booze", "Church on Sunday", "Fashion Victim", "Castaway", "Misery", "Deadbeat Holiday"	,
         "Hold On", "Jackass", "Waiting", "Minority", "Macy's Day Parade"]        
     },
@@ -37,7 +37,7 @@
         "artist": "Nirvana",
         "year": 1991,
         "genre": "Grunge",
-        "cover": "covers/nevermind.jpg",
+        "cover": "/covers/nevermind.jpg",
         "tracklist": ["Smells Like Teen Spirit", "In Bloom", "Come as You Are", "Breed", "Lithium",
         "Polly", "Territorial Pissings", "Drain You", "Lounge Act", "Stay Away", "On a Plain", 	"Something in the Way"]        
     },
@@ -47,7 +47,7 @@
         "artist": "American Football",
         "year": 1999,
         "genre": "Emo/Math Rock",
-        "cover": "covers/american_football.jpg",
+        "cover": "/covers/american_football.jpg",
         "tracklist": ["Never Meant", "The Summer Ends", "Honestly?", "For Sure.", "You Know I Should Be Leaving Soon",
         "But the Regrets Are Killing Me", "I'll See You When We're Both Not So Emotional", "Stay Home", "The One with the Wurlitzer", "Stay Away"]        
     },
@@ -57,7 +57,7 @@
         "artist": "Twenty One Pilots",
         "year": 2015,
         "genre": "Alternative",
-        "cover": "covers/blurryface.jpg",
+        "cover": "/covers/blurryface.jpg",
         "tracklist": ["Heavydirtysoul", "Stressed Out", "Ride", "Fairly Local", "Tear in My Heart",
         "Lane Boy", "The Judge", "Doubt", "Polarize", "We Don't Believe What's on TV", "Message Man", "Hometown", "Not Today", "Goner"]        
     },
@@ -67,7 +67,7 @@
         "artist": "My Chemical Romance",
         "year": 2004,
         "genre": "pop-punk/Emo/post-hardcore",
-        "cover": "covers/three_cheers.jpg",
+        "cover": "/covers/three_cheers.jpg",
         "tracklist": ["Helena", "Give 'Em Hell, Kid", "To The End", "You Know What They Do To Guys Like Us In Prison", "I'm Not Okay (I Promise)",
         "The Ghost Of You", "The Jetset Life Is Gonna Kill You", "Interlude", "Thank You For The Venom", "Hang 'Em High", "It's Not a Fashion Statement, It's a Fucking Deathwish",
         "Cemetery Drive", "I Never Told You What I Do For A Living"]        
@@ -78,7 +78,7 @@
         "artist": "Thermo",
         "year": 2004,
         "genre": "Emo/Rock Alernativo",
-        "cover": "covers/arde_en_mi.jpg",
+        "cover": "/covers/arde_en_mi.jpg",
         "tracklist": ["Piano", "Una Batalla Más", "Fuego Interno", "¿Dónde Estás?", "Vanessa",
         "Avanzar Sin Ti", "Cenizas", "Este No Soy Yo", "Nuevas Ideas", "Dance Core", "Azul"]        
     },
@@ -88,7 +88,7 @@
         "artist": "Panchiko",
         "year": 1999,
         "genre": "indie rock/lo-fi",
-        "cover": "covers/deathmetal.jpg",
+        "cover": "/covers/deathmetal.jpg",
         "tracklist": ["D>E>A>T>H>M>E>T>A>L", "Stabilisers for Big Boys", "Laputa", "The Eyes of Ibad",
         "Cut", "Sodium Chloride", "Kicking Cars", "Cut (Demo)", "Sodium Chloride (Demo)", "Kicking Cars (Demo)"]        
     },
@@ -98,7 +98,7 @@
         "artist": "Green Day",
         "year": 2024,
         "genre": "Punk Rock/Power Pop/Alternative Rock",
-        "cover": "covers/saviors.jpg",
+        "cover": "/covers/saviors.jpg",
         "tracklist": ["The American Dream is Killing Me", "TLook Ma, No Brains!", "Bobby Sox", "One Eyed Bastard", "Dilemma",
         "1989", "Goodnight Adeline", "Coma City", "Corvette Summer", "Suzie Chapstick", "Strange Days Are Here to Stay", "Living in the '20s",
         "Father to a Son", "Saviors", "Fancy Sauce"]        
